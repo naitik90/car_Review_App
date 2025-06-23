@@ -57,5 +57,8 @@ npm install
 npm run dev   # backend
 npm start     # frontend
 
-![Car Review Dashboard](https://raw.githubusercontent.com/naitik90/car_Review_App/master/loginpage.png)
+## 📸 Screenshot
+
+![Login Page](https://raw.githubusercontent.com/naitik90/car_Review_App/master/loginpage.png)
+
 
